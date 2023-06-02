@@ -1,0 +1,253 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"red"
+			],
+			[
+				"gr",
+				"gray"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"fon-",
+				"font-size"
+			],
+			[
+				"ca",
+				"calender"
+			],
+			[
+				"ju",
+				"justify-items"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"just",
+				"justify-items"
+			],
+			[
+				"ba",
+				"background"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/emank/Desktop/condition.js",
+		"/C/Users/emank/AppData/Roaming/Sublime Text/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/emank/AppData/Roaming/Sublime Text/Packages/User/Java.sublime-settings",
+		"/C/Users/emank/Desktop/karangwa/style.css",
+		"/C/Users/emank/Desktop/New folder/Nav bar/Nav.html",
+		"/C/Users/emank/Desktop/exercises/exersice.css",
+		"/C/Users/emank/Downloads/Prosper Nkomezi Best Songs _ Prosper Nkomezi Greatest Full Album (1).mp4",
+		"/C/Users/emank/Desktop/karangwa/calculator/calculator.css",
+		"/C/Users/emank/Desktop/project/karangwa.html",
+		"/C/Users/emank/Desktop/project/index.css",
+		"/C/Users/emank/Desktop/project/calender.js",
+		"/C/Users/emank/Desktop/project/calender.css",
+		"/C/Users/emank/Desktop/project/hello.js",
+		"/C/Users/emank/Desktop/project/callender.html",
+		"/C/Users/emank/Desktop/project/Month.css",
+		"/C/Users/emank/Desktop/Month.css",
+		"/C/Users/emank/Desktop/jackson/JavaScript calculator/calculator js.css",
+		"/C/Users/emank/Desktop/jackson/JavaScript calculator/Calculator.css",
+		"/C/Users/emank/Desktop/JANVIERE/positivo/james/bootstrap/css/bootstrap.css",
+		"/C/Users/emank/Desktop/JANVIERE/positivo/james/bootstrap/css/gfx",
+		"/C/Users/emank/Desktop/janv.html",
+		"/C/Users/emank/Desktop/JANVIERE/positivo/james/Register.html",
+		"/C/Users/emank/Desktop/JANVIERE/positivo/james/login.html.html",
+		"/C/Users/emank/Desktop/JavaScript calculator/Calculator js.html",
+		"/C/Users/emank/Desktop/exercises/javascript.html",
+		"/C/Users/emank/Desktop/exercises/exersice.html",
+		"/C/Users/emank/Desktop/jackson/Javascript",
+		"/C/Users/emank/Desktop/jackson/Navigation.html",
+		"/C/Users/emank/Desktop/jackson/JavaScript calculator/Calculator js.html",
+		"/C/Users/emank/Desktop/jackson/js calculator.html",
+		"/C/Users/emank/Desktop/jackson/javascriptdemo.html",
+		"/C/Users/emank/Downloads/Build Simple Calculator With JavaScript HTML CSS - JavaScript Project.vtt",
+		"/C/Users/emank/Desktop/jackson/list.html",
+		"/C/Users/emank/Desktop/jackson/row, col.html",
+		"/C/Users/emank/Desktop/jackson/table.html",
+		"/C/Users/emank/Desktop/jackson/Navigation.css",
+		"/C/Users/emank/Desktop/table.html",
+		"/C/Users/emank/Desktop/karangwa/demo.css",
+		"/C/Users/emank/Desktop/karangwa/login.html"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "contact us.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
